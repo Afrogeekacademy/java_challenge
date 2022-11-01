@@ -4,7 +4,7 @@ public class ChallengeImp implements Challenge {
 
     @Override
     public int opposite(int number) {
-        //TODO CODE HERE*/
+        //TODO CODE HERE
         return 0;
     }
 
